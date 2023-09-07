@@ -22,5 +22,6 @@ public class Casio implements Calculator{
         // System.out.println(num2-num1);      
           return diff;
           int a=0;
+          int b=0;
     }
 }
